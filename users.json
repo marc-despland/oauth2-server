@@ -1,0 +1,12 @@
+{
+    "Marc": {
+        "username": "Marc",
+        "password": "8be1c19478ad2bfd9795a6a72b885e477bb144684a43f8907b52fd4fac4a1ce10fdaadeccc51cb3543055a9da3268f9561afb2ecdbf46adc002e2b656ccd8480",
+        "salt": "6b3776de1ea2ac68"
+    },
+    "Paul": {
+        "username": "Paul",
+        "password": "d6a874dbbe4661102f09345ce0a40ae2749abbea4bb8aa155871c1d662cb55dbc675023e9bd3a83eef7e7228985782365e1b95c5acb936d2dbdc8d1427f3f684",
+        "salt": "f0685f28b784481a"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "c0b54393289a1a11": {
+        "id": "c0b54393289a1a11",
+        "name": "Allow Orion",
+        "desc": ""
+    },
+    "4dafa2980f728b03": {
+        "id": "4dafa2980f728b03",
+        "name": "Read only",
+        "desc": ""
+    },
+    "d29fc67da0ba133c": {
+        "id": "d29fc67da0ba133c",
+        "name": "Read/Write",
+        "desc": ""
+    }
+}

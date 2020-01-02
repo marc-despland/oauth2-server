@@ -1,0 +1,16 @@
+{
+    "e3268d5d5d68a46b": {
+        "id": "e3268d5d5d68a46b",
+        "appid": "60be3e8d0174f328",
+        "secret": "5fc56cdc55d9b13ebc697f649a02a42a462dd1e5b346cdf761ccdbbdfe561807f4fd5fe4866bf4d0726c353cd33847ad5326661096250490eea531b79af88aff",
+        "salt": "b50e3146a43c0fe5",
+        "allow_users": {
+            "Marc": {
+                "roles": [
+                    "d29fc67da0ba133c",
+                    "c0b54393289a1a11"
+                ]
+            }
+        }
+    }
+}

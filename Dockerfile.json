@@ -1,0 +1,4 @@
+FROM node
+WORKDIR /app
+COPY json.js /app/json.js
+ENTRYPOINT ["node", "json.js"]
